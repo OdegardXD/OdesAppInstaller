@@ -6,5 +6,16 @@ namespace OdesAppInstaller
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // call the "program list" method here
+            ProgramList();
+        }
+
+        private void ProgramList() 
+        {
+        
+        }
     }
 }
