@@ -8,6 +8,7 @@ namespace OdesAppInstaller
 {
 public class MainVariables 
     {
-        bool CurrentlyInstalling = false;
+        public static bool CurrentlyInstalling = false;
+        public static string AppListLink = "https://raw.githubusercontent.com/OdegardXD/OdesAppInstaller/refs/heads/main/AppList.txt";
     }
 }

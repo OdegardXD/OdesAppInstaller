@@ -1,0 +1,17 @@
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.Form1.resources
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.csproj.GenerateResource.cache
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.AssemblyInfoInputs.cache
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.AssemblyInfo.cs
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.csproj.CoreCompileInputs.cache
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.sourcelink.json
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\bin\Debug\net8.0-windows\OdesAppInstaller.exe
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\bin\Debug\net8.0-windows\OdesAppInstaller.deps.json
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\bin\Debug\net8.0-windows\OdesAppInstaller.runtimeconfig.json
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\bin\Debug\net8.0-windows\OdesAppInstaller.dll
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\bin\Debug\net8.0-windows\OdesAppInstaller.pdb
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.dll
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\refint\OdesAppInstaller.dll
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.pdb
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\OdesAppInstaller.genruntimeconfig.cache
+C:\Users\raymond\Documents\GitHub\OdesAppInstaller\Versions\C#\OdesAppInstaller\obj\Debug\net8.0-windows\ref\OdesAppInstaller.dll

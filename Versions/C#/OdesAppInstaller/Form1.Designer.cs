@@ -32,7 +32,7 @@
             InstallLogText = new TextBox();
             ProgramListDataGridView = new DataGridView();
             Install = new DataGridViewCheckBoxColumn();
-            Name = new DataGridViewTextBoxColumn();
+            ProgramNameColumn = new DataGridViewTextBoxColumn();
             Link = new DataGridViewLinkColumn();
             ((System.ComponentModel.ISupportInitialize)ProgramListDataGridView).BeginInit();
             SuspendLayout();
@@ -61,7 +61,7 @@
             // ProgramListDataGridView
             // 
             ProgramListDataGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            ProgramListDataGridView.Columns.AddRange(new DataGridViewColumn[] { Install, Name, Link });
+            ProgramListDataGridView.Columns.AddRange(new DataGridViewColumn[] { Install, ProgramNameColumn, Link });
             ProgramListDataGridView.Location = new Point(28, 12);
             ProgramListDataGridView.Name = "ProgramListDataGridView";
             ProgramListDataGridView.Size = new Size(365, 327);
@@ -74,8 +74,8 @@
             // 
             // Name
             // 
-            Name.HeaderText = "Name";
-            Name.Name = "Name";
+            ProgramNameColumn.HeaderText = "Name";
+            ProgramNameColumn.Name = "Name"; // Note: The internal column Name property can still be "Name"
             // 
             // Link
             // 
@@ -104,7 +104,7 @@
         private TextBox InstallLogText;
         private DataGridView ProgramListDataGridView;
         private DataGridViewCheckBoxColumn Install;
-        private DataGridViewTextBoxColumn Name;
+        private DataGridViewTextBoxColumn ProgramNameColumn;
         private DataGridViewLinkColumn Link;
     }
 }
