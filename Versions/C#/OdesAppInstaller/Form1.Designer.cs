@@ -34,6 +34,7 @@
             Install = new DataGridViewCheckBoxColumn();
             ProgramNameColumn = new DataGridViewTextBoxColumn();
             Link = new DataGridViewLinkColumn();
+            CancelButton = new Button();
             ((System.ComponentModel.ISupportInitialize)ProgramListDataGridView).BeginInit();
             SuspendLayout();
             // 
@@ -45,6 +46,7 @@
             InstallButton.TabIndex = 0;
             InstallButton.Text = "Install";
             InstallButton.UseVisualStyleBackColor = true;
+            InstallButton.Click += InstallButton_Click;
             // 
             // InstallLogText
             // 
@@ -72,21 +74,32 @@
             Install.HeaderText = "Checkbox";
             Install.Name = "Install";
             // 
-            // Name
+            // ProgramNameColumn
             // 
             ProgramNameColumn.HeaderText = "Name";
-            ProgramNameColumn.Name = "Name"; // Note: The internal column Name property can still be "Name"
+            ProgramNameColumn.Name = "ProgramNameColumn";
             // 
             // Link
             // 
             Link.HeaderText = "Link";
             Link.Name = "Link";
             // 
+            // CancelButton
+            // 
+            CancelButton.Location = new Point(476, 401);
+            CancelButton.Name = "CancelButton";
+            CancelButton.Size = new Size(75, 23);
+            CancelButton.TabIndex = 3;
+            CancelButton.Text = "Cancel";
+            CancelButton.UseVisualStyleBackColor = true;
+            CancelButton.Click += CancelButton_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(CancelButton);
             Controls.Add(ProgramListDataGridView);
             Controls.Add(InstallLogText);
             Controls.Add(InstallButton);
@@ -106,5 +119,6 @@
         private DataGridViewCheckBoxColumn Install;
         private DataGridViewTextBoxColumn ProgramNameColumn;
         private DataGridViewLinkColumn Link;
+        private Button CancelButton;
     }
 }
